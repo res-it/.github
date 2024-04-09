@@ -2,3 +2,7 @@
 .scrooj/jenres_rsa_public.pem
 
 .scrooj/jenres_rsa_private.pem
+
+.jenres/jenres_rsa_public.pem
+
+.jenres/jenres_rsa_private.pem
